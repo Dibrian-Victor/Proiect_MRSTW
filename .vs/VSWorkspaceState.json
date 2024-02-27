@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ProjectIV",
+    "\\ProjectIV\\FitPlaneLife",
+    "\\ProjectIV\\FitPlaneLife\\FitPlaneLife"
   ],
-  "SelectedNode": "\\FitPlaneLife.sln",
+  "SelectedNode": "\\.gitignore",
   "PreviewInSolutionExplorer": false
 }

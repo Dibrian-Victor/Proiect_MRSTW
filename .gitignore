@@ -1,5 +1,2 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
+﻿.vs/
 
-/ProjectIV/FitPlaneLife/.vs/FitPlaneLife/FileContentIndex/1f2b5eed-19bc-4bf9-a842-7449eca32703.vsidx
