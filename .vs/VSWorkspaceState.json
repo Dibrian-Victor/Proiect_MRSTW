@@ -1,6 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ProjectIV",
+    "\\ProjectIV\\FitPlaneLife",
+    "\\ProjectIV\\FitPlaneLife\\FitPlaneLife",
+    "\\ProjectIV\\FitPlaneLife\\FitPlaneLife\\Views",
+    "\\ProjectIV\\FitPlaneLife\\FitPlaneLife\\Views\\Home",
+    "\\ProjectIV\\FitPlaneLife\\FitPlaneLife\\Views\\Shared"
   ],
+  "SelectedNode": "\\ProjectIV\\FitPlaneLife\\FitPlaneLife\\Views\\Home\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }
