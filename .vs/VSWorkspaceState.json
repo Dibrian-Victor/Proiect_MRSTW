@@ -3,7 +3,9 @@
     "",
     "\\ProjectIV",
     "\\ProjectIV\\FitPlaneLife",
-    "\\ProjectIV\\FitPlaneLife\\FitPlaneLife"
+    "\\ProjectIV\\FitPlaneLife\\FitPlaneLife",
+    "\\ProjectIV\\FitPlaneLife\\FitPlaneLife\\Content",
+    "\\ProjectIV\\FitPlaneLife\\packages"
   ],
   "PreviewInSolutionExplorer": false
 }
