@@ -10,7 +10,13 @@ namespace FitPlaneLife.App_Start
     {
         public static void RegisterBundles(BundleCollection bundles)
         {
+               // Bootstrap style
+               bundles.Add(new StyleBundle("~/bundles/bootstrap/css").Include(
+                    "~/Content/bootstrap.min.css", new CssRewriteUrlTransform()));
 
-        }
+               // Bootstrap
+               bundles.Add(new StyleBundle("~/bundles/bootstrap/js").Include(
+                   "~/Scripts/bootstrap.min.js"));
+          }
     }
 }
