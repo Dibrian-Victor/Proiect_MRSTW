@@ -5,6 +5,12 @@ VisualStudioVersion = 17.8.34601.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FitPlaneLife", "FitPlaneLife\FitPlaneLife.csproj", "{F28237C4-5501-4FD4-9BFD-F70B5F1D0787}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FitPlaneLife.BusinessLogic", "FitPlaneLife.BusinessLogic\FitPlaneLife.BusinessLogic.csproj", "{06236E26-B5B4-4508-AE24-C513AF940BE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FitPlaneLife.Domain", "FitPlaneLife.Domain\FitPlaneLife.Domain.csproj", "{D29AFC69-CB22-4B7D-8BA5-A1F92E18318A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FitPlaneLife.Helpers", "FitPlaneLife.Helpers\FitPlaneLife.Helpers.csproj", "{5A453FD9-8FB4-4067-86C6-28C1AF19FA9F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +21,18 @@ Global
 		{F28237C4-5501-4FD4-9BFD-F70B5F1D0787}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F28237C4-5501-4FD4-9BFD-F70B5F1D0787}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F28237C4-5501-4FD4-9BFD-F70B5F1D0787}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06236E26-B5B4-4508-AE24-C513AF940BE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06236E26-B5B4-4508-AE24-C513AF940BE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06236E26-B5B4-4508-AE24-C513AF940BE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06236E26-B5B4-4508-AE24-C513AF940BE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D29AFC69-CB22-4B7D-8BA5-A1F92E18318A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D29AFC69-CB22-4B7D-8BA5-A1F92E18318A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D29AFC69-CB22-4B7D-8BA5-A1F92E18318A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D29AFC69-CB22-4B7D-8BA5-A1F92E18318A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A453FD9-8FB4-4067-86C6-28C1AF19FA9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A453FD9-8FB4-4067-86C6-28C1AF19FA9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A453FD9-8FB4-4067-86C6-28C1AF19FA9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A453FD9-8FB4-4067-86C6-28C1AF19FA9F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
