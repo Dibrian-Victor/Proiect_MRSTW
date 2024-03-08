@@ -351,6 +351,16 @@
     <Folder Include="App_Data\" />
     <Folder Include="Models\" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\FitPlaneLife.BusinessLogic\FitPlaneLife.BusinessLogic.csproj">
+      <Project>{06236e26-b5b4-4508-ae24-c513af940be4}</Project>
+      <Name>FitPlaneLife.BusinessLogic</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FitPlaneLife.Domain\FitPlaneLife.Domain.csproj">
+      <Project>{d29afc69-cb22-4b7d-8ba5-a1f92e18318a}</Project>
+      <Name>FitPlaneLife.Domain</Name>
+    </ProjectReference>
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
