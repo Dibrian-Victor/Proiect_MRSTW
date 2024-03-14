@@ -1,20 +1,27 @@
 ﻿@using System.Web.Optimization;
 <head>
-     <meta charset="utf-8" />
-     <title>Fitness</title>
-     <meta name="description" content="" />
-     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
-   
-     <link rel="icon" type="image/png" href="images/favicon.jpg" />
+    <meta charset="utf-8">
+    <title>Gymnast - Gym Website Template</title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="Free Website Template" name="keywords">
+    <meta content="Free Website Template" name="description">
 
-     <!-- CSS Files -->
-     @Styles.Render("~/css")
+    <!-- Favicon -->
+
+    <!-- Font Awesome -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
+
+
+    <!-- CSS Files -->
+    @Styles.Render("~/css")
 </head>
 <body>
 
-     @Html.Partial("_Navbar")
-     @RenderBody()
-     @Html.Partial("_Footer")
-     @Scripts.Render("~/js")
+    @Html.Partial("_Navbar")
+    @RenderBody()
+    @Html.Partial("_Footer")
+    @Scripts.Render("~/js")
 
+    < script src = "https://code.jquery.com/jquery-3.4.1.min.js" ></ script >
+    < script src = "https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js" ></ script >
 </body>
