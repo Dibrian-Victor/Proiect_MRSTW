@@ -13,5 +13,23 @@ namespace FitPlaneLife.Controllers
         {
             return View();
         }
+
+        public ActionResult Contact()
+        {
+            return View();  
+        }
+        public ActionResult About()
+        {
+            return View();
+        }
+        public ActionResult Feature()
+        {
+            return View();
+        }
+        public ActionResult Class()
+        {
+            return View();
+        }
+
     }
 }
