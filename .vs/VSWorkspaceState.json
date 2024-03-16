@@ -1,6 +1,14 @@
 {
   "ExpandedNodes": [
+<<<<<<< HEAD
     ""
+=======
+    "",
+    "\\ProjectIV",
+    "\\ProjectIV\\FitPlaneLife",
+    "\\ProjectIV\\FitPlaneLife\\FitPlaneLife"
+>>>>>>> 2ea299536f597abbe0aa8814e03c65757de39601
   ],
+  "SelectedNode": "\\ProjectIV\\FitPlaneLife\\FitPlaneLife",
   "PreviewInSolutionExplorer": false
 }
