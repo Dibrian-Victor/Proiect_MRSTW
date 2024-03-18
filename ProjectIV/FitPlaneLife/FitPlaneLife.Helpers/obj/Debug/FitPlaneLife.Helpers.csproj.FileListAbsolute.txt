@@ -1,0 +1,6 @@
+D:\Desktop\Proiect_MRSTW\ProjectIV\FitPlaneLife\FitPlaneLife.Helpers\bin\Debug\FitPlaneLife.Helpers.dll
+D:\Desktop\Proiect_MRSTW\ProjectIV\FitPlaneLife\FitPlaneLife.Helpers\bin\Debug\FitPlaneLife.Helpers.pdb
+D:\Desktop\Proiect_MRSTW\ProjectIV\FitPlaneLife\FitPlaneLife.Helpers\obj\Debug\FitPlaneLife.Helpers.csproj.AssemblyReference.cache
+D:\Desktop\Proiect_MRSTW\ProjectIV\FitPlaneLife\FitPlaneLife.Helpers\obj\Debug\FitPlaneLife.Helpers.csproj.CoreCompileInputs.cache
+D:\Desktop\Proiect_MRSTW\ProjectIV\FitPlaneLife\FitPlaneLife.Helpers\obj\Debug\FitPlaneLife.Helpers.dll
+D:\Desktop\Proiect_MRSTW\ProjectIV\FitPlaneLife\FitPlaneLife.Helpers\obj\Debug\FitPlaneLife.Helpers.pdb

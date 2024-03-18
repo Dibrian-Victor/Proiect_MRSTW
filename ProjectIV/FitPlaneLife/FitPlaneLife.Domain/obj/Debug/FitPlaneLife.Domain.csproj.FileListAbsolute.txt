@@ -1,0 +1,9 @@
+D:\Desktop\Proiect_MRSTW\ProjectIV\FitPlaneLife\FitPlaneLife.Domain\bin\Debug\FitPlaneLife.Domain.dll
+D:\Desktop\Proiect_MRSTW\ProjectIV\FitPlaneLife\FitPlaneLife.Domain\bin\Debug\FitPlaneLife.Domain.pdb
+D:\Desktop\Proiect_MRSTW\ProjectIV\FitPlaneLife\FitPlaneLife.Domain\bin\Debug\FitPlaneLife.Helpers.dll
+D:\Desktop\Proiect_MRSTW\ProjectIV\FitPlaneLife\FitPlaneLife.Domain\bin\Debug\FitPlaneLife.Helpers.pdb
+D:\Desktop\Proiect_MRSTW\ProjectIV\FitPlaneLife\FitPlaneLife.Domain\obj\Debug\FitPlaneLife.Domain.csproj.AssemblyReference.cache
+D:\Desktop\Proiect_MRSTW\ProjectIV\FitPlaneLife\FitPlaneLife.Domain\obj\Debug\FitPlaneLife.Domain.csproj.CoreCompileInputs.cache
+D:\Desktop\Proiect_MRSTW\ProjectIV\FitPlaneLife\FitPlaneLife.Domain\obj\Debug\FitPlane.D9990DBD.Up2Date
+D:\Desktop\Proiect_MRSTW\ProjectIV\FitPlaneLife\FitPlaneLife.Domain\obj\Debug\FitPlaneLife.Domain.dll
+D:\Desktop\Proiect_MRSTW\ProjectIV\FitPlaneLife\FitPlaneLife.Domain\obj\Debug\FitPlaneLife.Domain.pdb
