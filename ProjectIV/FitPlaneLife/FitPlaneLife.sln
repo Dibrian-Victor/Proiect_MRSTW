@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34601.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FitPlaneLife", "FitPlaneLife\FitPlaneLife.csproj", "{F28237C4-5501-4FD4-9BFD-F70B5F1D0787}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FitPlaneLife.Web", "FitPlaneLife\FitPlaneLife.Web.csproj", "{F28237C4-5501-4FD4-9BFD-F70B5F1D0787}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FitPlaneLife.BusinessLogic", "FitPlaneLife.BusinessLogic\FitPlaneLife.BusinessLogic.csproj", "{06236E26-B5B4-4508-AE24-C513AF940BE4}"
 EndProject

@@ -13,5 +13,41 @@ namespace FitPlaneLife.Controllers
         {
             return View();
         }
+        public ActionResult Contact()
+        {
+            return View();
+        }
+
+        public ActionResult About()
+        {
+            return View();
+        }
+
+        public ActionResult Classes()
+        {
+            return View();
+        }
+
+        public ActionResult Trainers()
+        {
+            return View();
+        }
+
+        public ActionResult Pages()
+        {
+            return View();
+        }
+        public ActionResult blog_grid()
+        {
+            return View();
+        }
+        public ActionResult blog_detail()
+        {
+            return View();
+        }
+        public ActionResult Testimonial()
+        {
+            return View();
+        }
     }
 }

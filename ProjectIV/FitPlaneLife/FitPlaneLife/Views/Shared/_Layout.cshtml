@@ -1,20 +1,33 @@
 ﻿@using System.Web.Optimization;
-<head>
-     <meta charset="utf-8" />
-     <title>Fitness</title>
-     <meta name="description" content="" />
-     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
-   
-     <link rel="icon" type="image/png" href="images/favicon.jpg" />
+<!DOCTYPE html>
+<html>
 
-     <!-- CSS Files -->
-     @Styles.Render("~/css")
+<head>
+    <meta charset="utf-8">
+    <title>GYMSTER - Gym HTML Template</title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="Free HTML Templates" name="keywords">
+    <meta content="Free HTML Templates" name="description">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.0/css/all.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=Rubik&display=swap" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
+
+    <!-- CSS Files -->
+    @Styles.Render("~/css")
+    @Styles.Render("~/lib")
+    @Styles.Render("~/img")
 </head>
 <body>
 
-     @Html.Partial("_Navbar")
-     @RenderBody()
-     @Html.Partial("_Footer")
-     @Scripts.Render("~/js")
+    @Html.Partial("_Header")
+    @RenderBody()
+    @Html.Partial("_Footer")
+    @Scripts.Render("~/js")
+    @Scripts.Render("~/lib")
+
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
 
 </body>
+</html>
